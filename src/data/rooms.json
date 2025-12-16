@@ -1,0 +1,1506 @@
+[
+  {
+    "kd_kamar": "AGR1.01",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR1.02",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "AGR1.02.",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR1.03",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "AGR1.04",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 127000,
+    "status": "ISI",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR2.01",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR2.02",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR2.03",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR2.04",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR3.01",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR3.02",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR3.03",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR3.04",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR3.05",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGR3.06",
+    "kd_bangsal": "AGR",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.01",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.02",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.03",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.04",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.05",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.06",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.07",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.08",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.09",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRB.10",
+    "kd_bangsal": "AGRB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AGRI.01",
+    "kd_bangsal": "AGRI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AInc.01",
+    "kd_bangsal": "AInc",
+    "trf_kamar": 125000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AInc.02",
+    "kd_bangsal": "AInc",
+    "trf_kamar": 125000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AInf.01",
+    "kd_bangsal": "AInf",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "AInf.02",
+    "kd_bangsal": "AInf",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM1.01",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 127000,
+    "status": "ISI",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM1.02",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM1.03",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM2.01",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM2.02",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM2.03",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM2.04",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM2.05",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM2.06",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.01",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.02",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.03",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.04",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.05",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.06",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.07",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.08",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.09",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.10",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.11",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ALM3.12",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ICU.01",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 300000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ICU.02",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 300000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ICU.03",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 300000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ICU.04",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 300000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ICU.05",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 300000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "ICU.06",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 300000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "IIN.01",
+    "kd_bangsal": "IIN",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "IIN.02",
+    "kd_bangsal": "IIN",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "ISO.01",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 300000,
+    "status": "KOSONG",
+    "kelas": "Kelas Utama",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "K0000006",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "K0000007",
+    "kd_bangsal": "AP",
+    "trf_kamar": 0,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "K0000017",
+    "kd_bangsal": "ICU",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "K1.01",
+    "kd_bangsal": "K1",
+    "trf_kamar": 69500,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "K2.01",
+    "kd_bangsal": "K2",
+    "trf_kamar": 88000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "K3.01",
+    "kd_bangsal": "K3",
+    "trf_kamar": 114000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.01",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.02",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.03",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.04",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.05",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.06",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.07",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.08",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.09",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KB.10",
+    "kd_bangsal": "KB",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KIC.01",
+    "kd_bangsal": "KIC",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KIC.02",
+    "kd_bangsal": "KIC",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KIC.03",
+    "kd_bangsal": "KIC",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KIC.04",
+    "kd_bangsal": "KIC",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KIC.05",
+    "kd_bangsal": "KIC",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KIC.06",
+    "kd_bangsal": "KIC",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "KMDT.01",
+    "kd_bangsal": "KMDT",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KMDT.02",
+    "kd_bangsal": "KMDT",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KMDT.03",
+    "kd_bangsal": "KMDT",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KMDT.04",
+    "kd_bangsal": "KMDT",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPI.01",
+    "kd_bangsal": "KPI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPI.02",
+    "kd_bangsal": "KPI",
+    "trf_kamar": 77000,
+    "status": "DIBOOKING",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPI.03",
+    "kd_bangsal": "KPI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPI.04",
+    "kd_bangsal": "KPI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPI.05",
+    "kd_bangsal": "KPI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPI.06",
+    "kd_bangsal": "KPI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.01",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.02",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.03",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.04",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.05",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.06",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.07",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.08",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.09",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "KPNI.10",
+    "kd_bangsal": "KPNI",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG1.01",
+    "kd_bangsal": "MG",
+    "trf_kamar": 127000,
+    "status": "ISI",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG1.02",
+    "kd_bangsal": "MG",
+    "trf_kamar": 127000,
+    "status": "DIBOOKING",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG1.03",
+    "kd_bangsal": "MG",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG1.04",
+    "kd_bangsal": "MG",
+    "trf_kamar": 127000,
+    "status": "DIBOOKING",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG2.01",
+    "kd_bangsal": "MG",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG2.02",
+    "kd_bangsal": "MG",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG2.03",
+    "kd_bangsal": "MG",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MG3.01",
+    "kd_bangsal": "MG",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MG3.02",
+    "kd_bangsal": "MG",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG3.03",
+    "kd_bangsal": "MG",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG3.04",
+    "kd_bangsal": "MG",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG3.05",
+    "kd_bangsal": "MG",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MG3.06",
+    "kd_bangsal": "MG",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MI.01",
+    "kd_bangsal": "MI",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MI.02",
+    "kd_bangsal": "MI",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO1.01",
+    "kd_bangsal": "MO",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MO1.02",
+    "kd_bangsal": "MO",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MO1.03",
+    "kd_bangsal": "MO",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MO2.01",
+    "kd_bangsal": "MO",
+    "trf_kamar": 87000,
+    "status": "DIBOOKING",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO2.02",
+    "kd_bangsal": "MO",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO2.03",
+    "kd_bangsal": "MO",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO2.04",
+    "kd_bangsal": "ALM",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO2.05",
+    "kd_bangsal": "MO",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO2.06",
+    "kd_bangsal": "MO",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MO3.01",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO3.02",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO3.03",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MO3.04",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MO3.05",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO3.06",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "MO3.07",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MO3.08",
+    "kd_bangsal": "MO",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MWRT.01",
+    "kd_bangsal": "MWRT",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MWRT.02",
+    "kd_bangsal": "MWRT",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "MWRT.03",
+    "kd_bangsal": "MWRT",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "NICU.01",
+    "kd_bangsal": "NICU",
+    "trf_kamar": 400000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "NICU.02",
+    "kd_bangsal": "NICU",
+    "trf_kamar": 400000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.01A",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.01B",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.01C",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.01CA",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "OPB.01D",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 80000,
+    "status": "ISI",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.02A",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 80000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.02B",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 80000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.02C",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 60000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.02D",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 60000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.02E",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 60000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03A",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03B",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03C",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03D",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03E",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "DIBOOKING",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03F",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03G",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "DIBOOKING",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03H",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03I",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03J",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03K",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "OPB.03L",
+    "kd_bangsal": "OPB",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT1.01",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT1.02",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT1.03",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT1.04",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 127000,
+    "status": "KOSONG",
+    "kelas": "Kelas 1",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT2.01",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT2.02",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 87000,
+    "status": "ISI",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT2.03",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT2.04",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT2.05",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "TRT2.06",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 87000,
+    "status": "KOSONG",
+    "kelas": "Kelas 2",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "TRT3.01",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRT3.02",
+    "kd_bangsal": "TRT",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTIS.01",
+    "kd_bangsal": "TRTIS",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTIS.02",
+    "kd_bangsal": "TRTIS",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTIS.03",
+    "kd_bangsal": "TRTIS",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTIS.04",
+    "kd_bangsal": "TRTIS",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTPA.01",
+    "kd_bangsal": "TRTPA",
+    "trf_kamar": 77000,
+    "status": "KOSONG",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTPA.02",
+    "kd_bangsal": "TRTPA",
+    "trf_kamar": 77000,
+    "status": "ISI",
+    "kelas": "Kelas 3",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTVIP.01",
+    "kd_bangsal": "TRT2",
+    "trf_kamar": 257000,
+    "status": "KOSONG",
+    "kelas": "Kelas VIP",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTVIP.02",
+    "kd_bangsal": "TRT2",
+    "trf_kamar": 257000,
+    "status": "ISI",
+    "kelas": "Kelas VIP",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "TRTVIP.03",
+    "kd_bangsal": "TRT2",
+    "trf_kamar": 257000,
+    "status": "KOSONG",
+    "kelas": "Kelas VIP",
+    "statusdata": "0"
+  },
+  {
+    "kd_kamar": "TRTVIP.04",
+    "kd_bangsal": "TRT2",
+    "trf_kamar": 257000,
+    "status": "ISI",
+    "kelas": "Kelas VIP",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "uji001",
+    "kd_bangsal": "uji01",
+    "trf_kamar": 100000,
+    "status": "ISI",
+    "kelas": "Kelas VIP",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "uji002",
+    "kd_bangsal": "uji01",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas VVIP",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "uji003",
+    "kd_bangsal": "uji01",
+    "trf_kamar": 100000,
+    "status": "KOSONG",
+    "kelas": "Kelas Utama",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "uji004",
+    "kd_bangsal": "uji01",
+    "trf_kamar": 150000,
+    "status": "KOSONG",
+    "kelas": "Kelas Utama",
+    "statusdata": "1"
+  },
+  {
+    "kd_kamar": "VUP.01",
+    "kd_bangsal": "VIP",
+    "trf_kamar": 255000,
+    "status": "KOSONG",
+    "kelas": "Kelas VVIP",
+    "statusdata": "0"
+  }
+]

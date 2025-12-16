@@ -1,0 +1,347 @@
+[
+  {
+    "kd_bangsal": "-",
+    "nm_bangsal": "-",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "AGR",
+    "nm_bangsal": "Anggrek",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "AGRB",
+    "nm_bangsal": "Box Bayi Anggrek",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "AGRI",
+    "nm_bangsal": "Isolasi Anggrek",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "AInc",
+    "nm_bangsal": "Incubator Anggrek",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "AInf",
+    "nm_bangsal": "Infant Anggrek",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "ALM",
+    "nm_bangsal": "Alamanda",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "ANT",
+    "nm_bangsal": "Anestesi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "AP",
+    "nm_bangsal": "Apotek",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "B0014",
+    "nm_bangsal": "LABORATORIUM",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "B0052",
+    "nm_bangsal": "UTDRS",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "CSSD",
+    "nm_bangsal": "CSSD",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "DPRI",
+    "nm_bangsal": "Depo Rawat Inap",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "Far",
+    "nm_bangsal": "Farmasi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "GD",
+    "nm_bangsal": "Gudang Obat",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "GZ",
+    "nm_bangsal": "Gizi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "HCU",
+    "nm_bangsal": "HCU",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "ICU",
+    "nm_bangsal": "ICU",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "IGD",
+    "nm_bangsal": "IGD",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "IIN",
+    "nm_bangsal": "ISOLASI ICU & NICU",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "JNZ",
+    "nm_bangsal": "Jenazah",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "K1",
+    "nm_bangsal": "Kamar Kelas I",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "K2",
+    "nm_bangsal": "Kamar Kelas II",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "K3",
+    "nm_bangsal": "Kamar Kelas III",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "KB",
+    "nm_bangsal": "Kenanga Bedah",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "KMDT",
+    "nm_bangsal": "Kenanga Paru MDT",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "KNG",
+    "nm_bangsal": "Kenanga",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "KO",
+    "nm_bangsal": "Kamar Operasi",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "KPI",
+    "nm_bangsal": "Kenanga Paru Infeksi",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "KPNI",
+    "nm_bangsal": "Kenanga Saraf / Kulit / noninf",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "KS",
+    "nm_bangsal": "Konsultasi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "KUJI",
+    "nm_bangsal": "Kamar Uji Coba",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "LBPA",
+    "nm_bangsal": "Lab Patalogi Anatomi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "LKT",
+    "nm_bangsal": "Loket",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "M01",
+    "nm_bangsal": "Mawar",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "MG",
+    "nm_bangsal": "Mawar Gynekologi",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "MI",
+    "nm_bangsal": "Mawar Isolasi",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "MO",
+    "nm_bangsal": "Mawar Obsterti",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "MWRT",
+    "nm_bangsal": "Mawar Tindakan",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "NICU",
+    "nm_bangsal": "NICU",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "OPB",
+    "nm_bangsal": "Operasi Bedah",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "PER",
+    "nm_bangsal": "Perinatologi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "PG",
+    "nm_bangsal": "Poli Geriatri",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POA",
+    "nm_bangsal": "Poliklinik Anak",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POB",
+    "nm_bangsal": "Poliklinik Bedah",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POF",
+    "nm_bangsal": "Poliklinik Fisioterapi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POGM",
+    "nm_bangsal": "Poliklinik Gigi & Mulut",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POJ",
+    "nm_bangsal": "Poliklinik Jiwa",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POK",
+    "nm_bangsal": "Poliklinik Kandungan/Obgyn",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POKK",
+    "nm_bangsal": "Poliklinik Kulit & Kelamin",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POM",
+    "nm_bangsal": "Poliklinik Mata",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POO",
+    "nm_bangsal": "Poliklinik Orthopedi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POP",
+    "nm_bangsal": "Poliklinik Paru",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POPD",
+    "nm_bangsal": "Poliklinik Penyakit Dalam",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POS",
+    "nm_bangsal": "Poliklinik Syaraf",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POT",
+    "nm_bangsal": "Poliklinik THT",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "POU",
+    "nm_bangsal": "Poliklinik Umum",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "PRM",
+    "nm_bangsal": "Poli Rehabilitasi Medik",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "RAD",
+    "nm_bangsal": "Radiologi",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "RECO",
+    "nm_bangsal": "Recovery Room",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "RJ",
+    "nm_bangsal": "Ruang Jenazah",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "TRT",
+    "nm_bangsal": "Teratai",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "TRT2",
+    "nm_bangsal": "Teratai VIP",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "TRTIS",
+    "nm_bangsal": "Teratai Isolasi",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "TRTPA",
+    "nm_bangsal": "Teratai Paru Non Isolasi",
+    "status": "1"
+  },
+  {
+    "kd_bangsal": "TU",
+    "nm_bangsal": "TU",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "VIP",
+    "nm_bangsal": "Kamar Kelas VIP",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "VIP01",
+    "nm_bangsal": "Ruang VIP",
+    "status": "0"
+  },
+  {
+    "kd_bangsal": "VVIP",
+    "nm_bangsal": "Kamar Kelas VVIP",
+    "status": "0"
+  }
+]

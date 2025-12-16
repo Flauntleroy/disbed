@@ -1,0 +1,356 @@
+/* Hospital FIDS Style - Medical Blue Theme */
+.container {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #1a365d 0%, #2c5282 50%, #1a365d 100%);
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', 'Inter', system-ui, sans-serif;
+    color: #ffffff;
+    overflow: hidden;
+}
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25rem 2rem;
+    background: linear-gradient(90deg, #1e3a5f 0%, #2b4a7c 100%);
+    border-bottom: 4px solid #63b3ed;
+    box-shadow: 0 4px 30px rgba(99, 179, 237, 0.3);
+}
+
+.headerLeft {
+    text-align: left;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin: 0;
+    color: #ffffff;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 20px rgba(99, 179, 237, 0.5);
+}
+
+.subtitle {
+    font-size: 1.25rem;
+    margin: 0.25rem 0 0 0;
+    color: #90cdf4;
+    font-weight: 600;
+    letter-spacing: 0.3em;
+}
+
+/* Stats Bar */
+.statsBar {
+    display: flex;
+    gap: 1rem;
+}
+
+.statBox {
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    padding: 0.75rem 1.5rem;
+    text-align: center;
+    min-width: 100px;
+    backdrop-filter: blur(10px);
+}
+
+.statNumber {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 900;
+    line-height: 1;
+    color: #ffffff;
+}
+
+.statText {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #bee3f8;
+    margin-top: 0.25rem;
+    letter-spacing: 0.1em;
+}
+
+.statBox.available .statNumber {
+    color: #68d391;
+}
+
+.statBox.occupied .statNumber {
+    color: #fc8181;
+}
+
+.statBox.booked .statNumber {
+    color: #90cdf4;
+}
+
+/* Clock */
+.headerRight {
+    text-align: right;
+}
+
+.clock {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #ffffff;
+    font-variant-numeric: tabular-nums;
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+    letter-spacing: 0.05em;
+}
+
+.date {
+    font-size: 1rem;
+    color: #bee3f8;
+    margin-top: 0.25rem;
+}
+
+/* Table Header */
+.tableHeader {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr 1fr 1fr 1fr 1.5fr;
+    padding: 1rem 2rem;
+    background: linear-gradient(90deg, #2b6cb0 0%, #3182ce 100%);
+    border-bottom: 3px solid #90cdf4;
+    font-weight: 800;
+    font-size: 1.1rem;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.colBangsal,
+.colKapasitas,
+.colTersedia,
+.colTerisi,
+.colBooked,
+.colStatus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colBangsal {
+    justify-content: flex-start;
+    padding-left: 1rem;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* Table Body */
+.tableBody {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+}
+
+.tableContent {
+    transition: transform 0.1s linear;
+}
+
+.tableRow {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr 1fr 1fr 1fr 1.5fr;
+    padding: 0.875rem 2rem;
+    font-size: 1.5rem;
+    border-bottom: 1px solid rgba(144, 205, 244, 0.2);
+    transition: background 0.3s ease;
+}
+
+.tableRow:hover {
+    background: rgba(99, 179, 237, 0.15);
+}
+
+.rowEven {
+    background: rgba(43, 108, 176, 0.3);
+}
+
+.rowOdd {
+    background: rgba(49, 130, 206, 0.15);
+}
+
+/* Column Styles - Bangsal */
+.bangsalCode {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #ffffff;
+    line-height: 1.2;
+}
+
+.bangsalSubcode {
+    font-size: 0.75rem;
+    color: #90cdf4;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    margin-top: 0.125rem;
+}
+
+.number {
+    font-weight: 700;
+    font-size: 1.75rem;
+    font-variant-numeric: tabular-nums;
+}
+
+.tersedia {
+    color: #68d391;
+    text-shadow: 0 0 10px rgba(104, 211, 145, 0.5);
+}
+
+.terisi {
+    color: #fc8181;
+    text-shadow: 0 0 10px rgba(252, 129, 129, 0.5);
+}
+
+.booking {
+    color: #90cdf4;
+    text-shadow: 0 0 10px rgba(144, 205, 244, 0.5);
+}
+
+/* Status Badge */
+.statusBadge {
+    padding: 0.5rem 1.25rem;
+    border-radius: 8px;
+    font-weight: 800;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.statusNormal {
+    background: linear-gradient(135deg, #276749 0%, #38a169 100%);
+    color: #ffffff;
+    box-shadow: 0 0 20px rgba(56, 161, 105, 0.5);
+    animation: pulse-green 2s infinite;
+}
+
+.statusWarning {
+    background: linear-gradient(135deg, #c05621 0%, #dd6b20 100%);
+    color: #ffffff;
+    box-shadow: 0 0 20px rgba(221, 107, 32, 0.5);
+    animation: pulse-orange 1.5s infinite;
+}
+
+.statusCritical {
+    background: linear-gradient(135deg, #c53030 0%, #e53e3e 100%);
+    color: #ffffff;
+    box-shadow: 0 0 25px rgba(229, 62, 62, 0.6);
+    animation: pulse-red 1s infinite;
+}
+
+@keyframes pulse-green {
+
+    0%,
+    100% {
+        box-shadow: 0 0 20px rgba(56, 161, 105, 0.5);
+    }
+
+    50% {
+        box-shadow: 0 0 35px rgba(56, 161, 105, 0.8);
+    }
+}
+
+@keyframes pulse-orange {
+
+    0%,
+    100% {
+        box-shadow: 0 0 20px rgba(221, 107, 32, 0.5);
+    }
+
+    50% {
+        box-shadow: 0 0 35px rgba(221, 107, 32, 0.8);
+    }
+}
+
+@keyframes pulse-red {
+
+    0%,
+    100% {
+        box-shadow: 0 0 25px rgba(229, 62, 62, 0.6);
+    }
+
+    50% {
+        box-shadow: 0 0 40px rgba(229, 62, 62, 0.9);
+    }
+}
+
+/* Footer */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: linear-gradient(90deg, #1e3a5f 0%, #2b4a7c 100%);
+    border-top: 2px solid #4a5568;
+}
+
+.legend {
+    display: flex;
+    gap: 2rem;
+}
+
+.legendItem {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1rem;
+    color: #bee3f8;
+    font-weight: 600;
+}
+
+.legendDot {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+}
+
+.legendGreen {
+    background: #38a169;
+    box-shadow: 0 0 10px rgba(56, 161, 105, 0.5);
+}
+
+.legendYellow {
+    background: #dd6b20;
+    box-shadow: 0 0 10px rgba(221, 107, 32, 0.5);
+}
+
+.legendRed {
+    background: #e53e3e;
+    box-shadow: 0 0 10px rgba(229, 62, 62, 0.5);
+}
+
+.footerInfo {
+    font-size: 0.875rem;
+    color: #90cdf4;
+    font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 1280px) {
+
+    .tableHeader,
+    .tableRow {
+        font-size: 1rem;
+        padding: 0.75rem 1.5rem;
+    }
+
+    .bangsalCode {
+        font-size: 1.25rem;
+    }
+
+    .number {
+        font-size: 1.25rem;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .clock {
+        font-size: 2.5rem;
+    }
+
+    .statNumber {
+        font-size: 2rem;
+    }
+}
