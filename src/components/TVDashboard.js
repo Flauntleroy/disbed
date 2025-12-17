@@ -137,8 +137,8 @@ export default function TVDashboard({ rooms }) {
                 </div>
 
                 <div className={styles.headerRight}>
-                    <div className={styles.clock}>{formatTime(currentTime)}</div>
-                    <div className={styles.date}>{formatDate(currentTime)}</div>
+                    <div className={styles.clock} suppressHydrationWarning>{formatTime(currentTime)}</div>
+                    <div className={styles.date} suppressHydrationWarning>{formatDate(currentTime)}</div>
                 </div>
             </header>
 
