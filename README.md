@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DISBED - Display Bed Occupancy Dashboard
 
-## Getting Started
+Dashboard real-time untuk menampilkan informasi ketersediaan tempat tidur rumah sakit per ruangan/bangsal. Dioptimalkan untuk tampilan TV/monitor besar.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-16.0-black?logo=next.js)
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
+
+## ✨ Fitur
+
+- 📺 **TV Mode** - Tampilan full-screen untuk TV/monitor besar
+- 🔄 **Auto Refresh** - Data otomatis diperbarui setiap 30 detik
+- 🏥 **Per Bangsal** - Informasi terisi/kosong per ruangan
+- 📊 **Ringkasan** - Total bed tersedia, terisi, dan kosong
+- 🌙 **Dark Theme** - Tampilan gelap nyaman untuk monitoring
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js 16 (App Router)
+- **Frontend:** React 19
+- **Database:** MySQL (via mysql2)
+- **Styling:** CSS Modules
+
+## 📦 Instalasi
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/username/disbed.git
+cd disbed
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Konfigurasi Environment
+
+Buat file `.env.local` di root project:
+
+```env
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=nama_database
+DB_USER=username
+DB_PASSWORD=password
+```
+
+### 4. Jalankan Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Buka [http://localhost:54321](http://localhost:54321) di browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🚀 Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Build Production
 
-## Learn More
+```bash
+npm run build
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Deploy ke Server (Ubuntu + aaPanel)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Lihat dokumentasi lengkap di [Dep.md](./Dep.md) untuk panduan deployment dengan:
+- aaPanel Node Project
+- Nginx Reverse Proxy
+- SSL/HTTPS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📁 Struktur Project
 
-## Deploy on Vercel
+```
+disbed/
+├── src/
+│   ├── app/
+│   │   ├── api/
+│   │   │   ├── rooms/       # API data ruangan
+│   │   │   └── bangsal/     # API data bangsal
+│   │   ├── tv/              # Halaman TV mode
+│   │   ├── page.js          # Halaman utama
+│   │   └── layout.js
+│   ├── components/
+│   │   ├── TVDashboard.js   # Komponen dashboard TV
+│   │   ├── RoomCard.js      # Kartu ruangan
+│   │   └── WardSummaryCard.js
+│   ├── lib/
+│   │   └── db.js            # Koneksi database
+│   └── config/
+└── public/
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔌 API Endpoints
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Endpoint | Method | Deskripsi |
+|----------|--------|-----------|
+| `/api/rooms` | GET | Data semua ruangan dengan status bed |
+| `/api/bangsal` | GET | Data per bangsal |
+
+## ⚙️ Environment Variables
+
+| Variable | Deskripsi | Default |
+|----------|-----------|---------|
+| `DB_HOST` | Host database MySQL | - |
+| `DB_PORT` | Port database | `3306` |
+| `DB_NAME` | Nama database | - |
+| `DB_USER` | Username database | - |
+| `DB_PASSWORD` | Password database | - |
+
+## 📄 License
+
+MIT License
+
